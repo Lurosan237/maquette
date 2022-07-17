@@ -64,37 +64,6 @@ span p{
     margin-left: -30%;
 }
 
-.mes-carres{
-    height: 200px;
-    width: 200px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
-    margin-bottom: 5px;
-    margin-left: 20%;
-}
-.carres{
-    height: 50px;
-    width: 50px;
-    border: 1px hidden;
-}
-.carres:nth-child(1){
-    background-color: yellow;
-    color: yellow;
-}
-.carres:nth-child(2){
-    background-color: rgb(209, 209, 209);
-    color: rgb(209, 209, 209);
-}
-.carres:nth-child(3){
-    background-color: grey;
-    color: grey;
-}
-.carres:nth-child(4){
-    background-color: rgb(255, 255, 255);
-    box-shadow: 5px 1px 10px rgb(58, 58, 58);
-}
 @media screen and (max-width:360px){
     .header{
         width: 400px;
