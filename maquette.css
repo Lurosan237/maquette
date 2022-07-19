@@ -122,6 +122,7 @@ span p{
     }
     .mes-carres{
         margin-left: -20%;
+        display:none;
     }
     .details p{
         margin-left: 25%;
